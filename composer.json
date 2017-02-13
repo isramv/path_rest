@@ -1,0 +1,14 @@
+{
+  "name": "drupal/path_rest",
+  "type": "drupal-module",
+  "description": "Path REST",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/path_rest",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/path_rest",
+    "source": "http://cgit.drupalcode.org/path_rest"
+  },
+  "require": { }
+}

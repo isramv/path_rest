@@ -1,0 +1,6 @@
+path_rest:
+  path: 'pathapi/routes'
+  defaults: { _controller: '\Drupal\path_rest\Controller\PathRestController::get_path' }
+  requirements:
+    _access: 'TRUE'
+    _method: 'GET'

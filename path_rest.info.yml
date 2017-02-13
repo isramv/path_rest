@@ -1,0 +1,8 @@
+name: path_rest
+type: module
+description: Path REST
+core: 8.x
+
+package: Custom
+dependencies:
+  - jsonapi
